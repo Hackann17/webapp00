@@ -1,2 +1,3 @@
 streamlit
 pandas
+//preatar atençao nas bibliotecas mais avançadas , de grafico , elas dao trabalho
