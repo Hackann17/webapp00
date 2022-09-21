@@ -1,6 +1,6 @@
 # myFirstStreamlitApp.py
   
-#import the library, this a codename to the library , as short as better
+#import the library, this a codename to the library 
 import streamlit as st
   
 # Use st.title("") para adicionar um TÍTULO ao seu Web app
