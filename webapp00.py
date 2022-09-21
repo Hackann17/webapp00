@@ -1,10 +1,10 @@
 # myFirstStreamlitApp.py
   
-#import the library
+#import the library, this a codename to the library , as short as better
 import streamlit as st
   
 # Use st.title("") para adicionar um TÍTULO ao seu Web app
-st.title("A GALERA DO BENTÃO É FERA!")
+st.title("Senai DS >>>>>>>>>BEtão!")
 
 # Use st.header("") para adicionar um CABEÇALHO ao seu Web app
 st.header("Cabeçalho")
